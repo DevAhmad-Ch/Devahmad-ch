@@ -1,5 +1,8 @@
 ## Hi there 👋
-I am a bS
+Bio
+I am a BS Computer Science Student at Islamia University Bahawalpur.
+Connect me here:
+                https://www.linkedin.com/in/ahmad-ch10/
 <!--
 **DevAhmad-Ch/Devahmad-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
